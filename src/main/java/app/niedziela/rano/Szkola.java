@@ -27,6 +27,6 @@ public class Szkola {
 
         HashMap<String, String> strings = new HashMap<String, String>();
     }
-// to jest zmiana
+
 }
 
